@@ -2,7 +2,7 @@
 title: "Pengaruh Ekspor Minyak Kelapa Sawit terhadap PDB di Indonesia Periode 2013-2022"
 subtitle: "Metode Penelitian Politeknik APP Jakarta"
 author: "Salsa Nabilla"
-date: 2024-01-10
+date: 2024-01-08
 number-sections: true
 format:
   html: default
@@ -109,7 +109,7 @@ Plot Pengaruh Error terhadap PDB di Indonesia
 
 ### Metode analisis
 
-Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini merbaksud mencari hubungan antara PDB Indonesia dan Nilai ekspor minyak kelapa sawit. Spesifikasi yang dilakukan adalah:
+Metode yang dipilih adalah regresi univariat atau Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini bertujuan mencari hubungan antara PDB Indonesia dan Nilai ekspor minyak kelapa sawit. Spesifikasi yang dilakukan adalah:
 
 $$
 y_{t}=\beta_0 + \beta_1 x_t+\mu_t
